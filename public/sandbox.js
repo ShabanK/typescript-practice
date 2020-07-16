@@ -1,3 +1,4 @@
+"use strict";
 var person = /** @class */ (function () {
     function person() {
         this.id = 0;
